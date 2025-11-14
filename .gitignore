@@ -1,0 +1,5 @@
+ecommerce_f2.db
+_pycache_/
+__pycache__/.env
+*.pyc
+
